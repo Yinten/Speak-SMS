@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Who!</string>
+    <string name="app_name">Speak SMS Ads</string>
+<string name="widget_loading">Loading..</string>
+<string name="widget_name">Speak SMS</string>
+</resources>
